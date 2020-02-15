@@ -46,7 +46,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
 \begin {center}
 
 %----------------------------------------------------------------------------------------
@@ -132,7 +131,7 @@ Washington University in St. Louis
 \begin{enumerate}
 \reverselabel{20} %set to total # of publications
 
-\item \textbf{Sheth, S.N.}, N. Morueta-Holme, and A. L. Angert. Determinants of geographic range size in plants. In press, \emph{New Phytologist}. https://doi.org/10.1111/nph.16406.
+\item \textbf{Sheth, S.N.}, N. Morueta-Holme, and A. L. Angert. 2020. Determinants of geographic range size in plants. In press, \emph{New Phytologist}. https://doi.org/10.1111/nph.16406.
 
 \item Briscoe Runquist, R. D., A. J. Gorton, J. B. Yoder, N. J. Deacon, J. J. Grossman, S. A. Kothari, M. P. Lyons, \textbf{S. N. Sheth}, P. Tiffin, and D. A. Moeller. 2020. Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis. In press, \emph{American Naturalist}. https://doi.org/10.1086/707322.
 
@@ -174,17 +173,18 @@ Washington University in St. Louis
 \end{enumerate}
 \end{hangparas}
 
-%\subsection*{\textit{In review} or \textit{In revision}}
-%\begin{hangparas}{.5in}{1}
+\subsection*{\textit{Preprints}} 
 
-%Wooliver, R., S.B. Tittes, \textbf{S.N. Sheth}. A resurrection study reveals rapid evolution of thermal performance in a leading range edge population in response to recent climate change. In review, \emph{Ecology Letters}.
+\begin{hangparas}{.5in}{1}
 
-%\end{hangparas}
+Wooliver, R., S.B. Tittes, \textbf{S.N. Sheth}. A resurrection study reveals limited evolution of thermal performance in response to recent climate change across the geographic range of the scarlet monkeyflower. https://doi.org/10.1101/2020.02.14.934166
+
+\end{hangparas}
 
 %----------------------------------------------------------------------------------------
 %	GRANTS, FELLOWSHIPS, AND AWARDS
 %----------------------------------------------------------------------------------------
-%\vspace{2ex}
+\vspace{2ex}
 %\begin{flushleft}
 \section*{GRANTS, FELLOWSHIPS, AND AWARDS}
 %\noindent\Large{\textbf{GRANTS, FELLOWSHIPS, AND AWARDS}} 
@@ -207,7 +207,7 @@ Finalist, University of California President's Postdoctoral Fellowship & 2014
 \tabularnewline
 
 NSF DEB Evolutionary Ecology, \$14,984 & 2012 - 2014 \tabularnewline
-\addtolength{\leftskip}{5ex}\emph{Dissertation Research: Role of evolutionary potential in limiting distributions} (co-PI)
+\addtolength{\leftskip}{5ex}\emph{Dissertation Research: Role of evolutionary potential in limiting species' distributions} (co-PI)
 \vspace{0.5ex} \tabularnewline
 
 \end{tabularx}
@@ -472,7 +472,7 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 \hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, BMC Evolutionary Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Science Advances} & 2009 - present \tabularnewline
-\hangindent=5ex Hamilton student award committee member, Society for the Study of Evolution & 2020 - present \tabularnewline
+Hamilton student award committee member, Society for the Study of Evolution & 2020 - present \tabularnewline
 Book proposal reviewer: Oxford University Press & 2018 \tabularnewline                               
 Proposal reviewer: NSF DEB, Population and Community Ecology & 2014 
 \end{tabularx}
@@ -517,7 +517,7 @@ Volunteer, Unidad T\'ecnica (environmental NGO), Managua, Nicaragua &2001 \\*[0.
 
 \hangindent=5ex Quantitative Genetics and Mixed Models in Quantitative Genetics, Summer Institute in Statistical Genetics, University of Washington, Seattle, WA & 2013 \tabularnewline    
 
-\hangindent=5ex Intro to Python for ArcGIS Workshop, Colorado State University, Fort Collins, CO & 2016 \tabularnewline
+\hangindent=5ex Intro to Python for ArcGIS Workshop, Colorado State University, Fort Collins, CO & 2013 \tabularnewline
 
 \hangindent=5ex Science Communication Workshop, Colorado State University, Fort Collins, CO	& 2012 \tabularnewline
 
