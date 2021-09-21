@@ -152,7 +152,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 \item \textbf{Sheth, S.N.}, N. Morueta-Holme, and A. L. Angert. 2020. Determinants of geographic range size in plants. \emph{New Phytologist} 226: 650-665.
 
-\item Briscoe Runquist, R. D., A. J. Gorton, J. B. Yoder, N. J. Deacon, J. J. Grossman, S. A. Kothari, M. P. Lyons, \textbf{S. N. Sheth}, P. Tiffin, and D. A. Moeller. 2020. Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis. In press, \emph{American Naturalist} 195: 412-431.
+\item Briscoe Runquist, R. D., A. J. Gorton, J. B. Yoder, N. J. Deacon, J. J. Grossman, S. A. Kothari, M. P. Lyons, \textbf{S. N. Sheth}, P. Tiffin, and D. A. Moeller. 2020. Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis. \emph{American Naturalist} 195: 412-431.
 
 \item Smithers, B. V., M. F. Oldfather, M. J. Koontz, J. Bishop, C. Bishop, J. Nachlinger, and \textbf{S. N. Sheth}. 2020. Community turnover by composition and climate affinity across scales in an alpine system. \emph{American Journal of Botany} 107: 239-249.
 
