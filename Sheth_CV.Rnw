@@ -477,7 +477,7 @@ Conservation Biology, guest lecturer for University of Missouri - St. Louis cour
 \subsection*{University of Missouri - St. Louis}
 %\end{flushleft}
 McCluer High School, NSF GK-12 fellow, Florissant, MO \hfill {2005 - 2006} \newline
-Organisms and th Environment Laboratory, guest lecturer \hfill {2005} 
+Organisms and the Environment Laboratory, guest lecturer \hfill {2005} 
 
 %\begin{flushleft}
 \subsection*{AmeriCorps Partnership for Youth}
@@ -551,11 +551,12 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 \hangindent=5ex 
-Hamilton student award committee member, Society for the Study of Evolution & 2020 - \footnotesize{present} \tabularnewline
 Workshop and Regional Society committee member, American Society of Naturalists & 2021 - present \tabularnewline
+Hamilton student award committee member, Society for the Study of Evolution & 2020; \footnotesize{cancelled due to COVID-19} \tabularnewline
 Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
+Proposal reviewer: NSF Division of Environmental Biology & 2021 \tabularnewline    
 Book proposal reviewer: Oxford University Press & 2018 \tabularnewline                               
-Proposal reviewer: NSF DEB, Population and Community Ecology & 2014 
+Proposal reviewer: NSF Division of Environmental Biology, Population and Community Ecology & 2014 
 \end{tabularx}
 
 \subsection*{Other service}
