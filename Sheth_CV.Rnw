@@ -119,11 +119,11 @@ Advisor: Dr. Bette Loiselle
 Washington University in St. Louis
 \end{flushleft}
 
+
 %----------------------------------------------------------------------------------------
 %	RESEARCH INTERESTS
 %----------------------------------------------------------------------------------------
 
-\vspace{1ex}
 \section*{RESEARCH INTERESTS}
 \vspace{-0.5ex}
 
@@ -133,7 +133,7 @@ evolutionary and population ecology; biogeography; plant community responses to 
 %	PUBLICATIONS
 %----------------------------------------------------------------------------------------
 
-%\vspace{1ex}
+\vspace{1ex}
 \section*{PUBLICATIONS}
 %\noindent\Large{\textbf{PUBLICATIONS}} 
 \vspace{-0.5ex}
