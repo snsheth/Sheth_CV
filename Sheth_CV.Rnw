@@ -205,7 +205,7 @@ Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, E. Cough
 \underline{Querns, A.\textsuperscript{g}}, \underline{R. Wooliver\textsuperscript{p}}, M. Vallejo-Mar\'in, and \textbf{S. N. Sheth}. The evolution of thermal performance in native and invasive populations of \emph{Mimulus guttatus}. In revision for \emph{Evolution Letters}. 
 Pre-print: \url{https://doi.org/10.1101/2020.09.10.291252}. \tabularnewline
 
-Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. Greater local adaptation to temperature in the ocean than on land. In review at \emph{Nature Climate Change}.Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}. \tabularnewline
+Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. Greater local adaptation to temperature in the ocean than on land. In review at \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}. \tabularnewline
 
 \underline{Wooliver, R.\textsuperscript{p}}, \underline{E. E. Vtipilthorpe\textsuperscript{g}}, \underline{A. M. Wiegmann\textsuperscript{u}}, and \textbf{S. N. Sheth}. Guidelines for ecological and evolutionary study of plant thermal performance curves in a warming world. In review at \emph{New Phytologist}. 
 
