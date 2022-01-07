@@ -142,7 +142,11 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 \begin{hangparas}{.5in}{1}
 \begin{enumerate}
-\reverselabel{23} %set to total # of publications
+\reverselabel{25} %set to total # of publications
+
+\item Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. 2022. On the predictive value of species distribution models in population biology. \emph{Ecography}, \url{https://doi.org/10.1111/ecog.05877}.
+
+\item Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, E. Coughlin, and \textbf{S. N. Sheth}. 2022. Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower. \emph{Molecular Ecology}, \url{https://doi.org/10.1111/mec.16300}. 
 
 \item Barley, J. M., B. S. Cheng, M. Sasaki, S. Gignoux-Wolfsohn, C. G. Hays, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and M. W. Kelly. 2021. Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off. \emph{Proceedings of the Royal Society B} 288: 20210765.
 
@@ -198,16 +202,12 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 %Coughlin, E. M., \underline{R. Wooliver\textsuperscript{p}}, and \textbf{S. N. Sheth}. General-purpose genotypes with divergent niche optima shape population-level niche breadth in western North American monkeyflowers. In review at \emph{Evolution}. \tabularnewline
 
-Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. On the predictive value of species distribution models in population biology. In revision for \emph{Ecography}.\tabularnewline
-
-Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, E. Coughlin, and \textbf{S. N. Sheth}. Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower. In revision for \emph{Molecular Ecology}. \tabularnewline
-
 \underline{Querns, A.\textsuperscript{g}}, \underline{R. Wooliver\textsuperscript{p}}, M. Vallejo-Mar\'in, and \textbf{S. N. Sheth}. The evolution of thermal performance in native and invasive populations of \emph{Mimulus guttatus}. In revision for \emph{Evolution Letters}. 
 Pre-print: \url{https://doi.org/10.1101/2020.09.10.291252}. \tabularnewline
 
-Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. Greater local adaptation to temperature in the ocean than on land. In review at \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}. \tabularnewline
+Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. Greater local adaptation to temperature in the ocean than on land. In revision for \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}. \tabularnewline
 
-\underline{Wooliver, R.\textsuperscript{p}}, \underline{E. E. Vtipilthorpe\textsuperscript{g}}, \underline{A. M. Wiegmann\textsuperscript{u}}, and \textbf{S. N. Sheth}. Guidelines for ecological and evolutionary study of plant thermal performance curves in a warming world. In review at \emph{New Phytologist}. 
+%\underline{Wooliver, R.\textsuperscript{p}}, \underline{E. E. Vtipilthorpe\textsuperscript{g}}, \underline{A. M. Wiegmann\textsuperscript{u}}, and \textbf{S. N. Sheth}. Guidelines for ecological and evolutionary study of plant thermal performance curves in a warming world. In review at \emph{New Phytologist}. 
 
 \end{hangparas}
 
@@ -225,17 +225,20 @@ Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Put
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 
+National Science Foundation, DEB, Total: \$1,452,695 (\$509,734 to NCSU) & 2022-2025 \tabularnewline
+\addtolength{\leftskip}{5ex}\emph{Collaborative Research: BEE: Integrating evolutionary genetics and population ecology to detect contemporary adaptation to climate change across a species range} (\textbf{lead PI}). co-PIs: Chris Muir (U. of Hawai'i at M\={a}noa), Lluvia Flores-Renter\'{i}a (San Diego State U.), Jason Sexton (U. of California, Merced), and Jeff Diez (U. of Oregon). \tabularnewline
+
+% Move this chunk as needed to adjust page breaks
+\end{tabularx}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+% End of chunk
+
 NCSU Faculty Research and Professional Development Fund, \$5,000 & 2019 - 2020 \tabularnewline
 \addtolength{\leftskip}{5ex}\emph{Rapid evolution of thermal tolerance across a species' geographic range} (PI)  & \tabularnewline
 
 American Naturalist 2016 Student Paper Award & 2017 \tabularnewline
-
-% Move this chunk as needed to adjust page breaks
-%\end{tabularx}
-
-%\renewcommand{\arraystretch}{1.2}
-%\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in>{\raggedleft}X@{}}
-% End of chunk
 
 NSF Postdoctoral Research Fellowship in Biology, \$138,000 & 2016 - 2017 \tabularnewline
 \addtolength{\leftskip}{5ex}\emph{Relationships among climatic tolerance, trait evolution, and diversification in the California flora} \tabularnewline
@@ -410,6 +413,13 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 
 \hangindent=5ex \ \textbf{Sheth, S.N.} and A.L. Angert. ``Demographic compensation does not rescue \textit{Erythranthe cardinalis} populations at the southern edge of the species range.'' Ecological Society of America, Portland, OR & 2017 \tabularnewline
 
+% Move this chunk as needed to adjust page breaks
+\end{tabularx}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+% End of chunk
+
 \hangindent=5ex \ Kulbaba, M., R.E. Pain, V.M. Eckhart, \textbf{S.N. Sheth}, and R.G. Shaw. ``The immediate capacity for adaptation and its realization in natural plant populations.'' International Botanical Congress, Shenzhen, China & 2017 \tabularnewline
 
 \hangindent=5ex \ \textbf{Sheth, S.N.}, M. Kulbaba, R.E. Pain, and R.G. Shaw. ``Expression of additive genetic variance for fitness in a population of partridge pea grown in two field sites.'' Society for the Study of Evolution, Portland, OR (presented by R.G. Shaw) & 2017 \tabularnewline
@@ -555,7 +565,6 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 \hangindent=5ex 
 Workshop and Regional Society committee member, American Society of Naturalists & 2021 - present \tabularnewline
-Hamilton student award committee member, Society for the Study of Evolution & 2020; \footnotesize{cancelled due to COVID-19} \tabularnewline
 Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
 
 % NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
@@ -574,7 +583,7 @@ Proposal reviewer: NSF Division of Environmental Biology, Population and Communi
 \subsection*{Other service}
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
-\hangindent=5ex Volunteer: Global Observation Research Initiative in Alpine Environments (GLORIA), White Mountains Wilderness, California & 2017 - present \tabularnewline
+\hangindent=5ex Volunteer: Global Observation Research Initiative in Alpine Environments (GLORIA) Great Basin, California and Nevada & 2017 - present \tabularnewline
 \hangindent=5ex Invited Panelist, PhD Career Panel (virtual), Graduate Degree Program in Ecology, Colorado State University & 2021 \tabularnewline
 \hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021 \tabularnewline
 \hangindent=5ex Judge, Southeast Population Ecology and Evolutionary Genetics & 2019 \tabularnewline
