@@ -588,6 +588,7 @@ Proposal reviewer: NSF Division of Environmental Biology, Population and Communi
 \hangindent=5ex Volunteer: Global Observation Research Initiative in Alpine Environments (GLORIA) Great Basin, California and Nevada & 2017 - present \tabularnewline
 \hangindent=5ex Invited Panelist, PhD Career Panel (virtual), Graduate Degree Program in Ecology, Colorado State University & 2021 \tabularnewline
 \hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021 \tabularnewline
+\hangindent=5ex Primary Atlaser (Cary SE Priority Block) and Volunteer: North Carolina Bird Atlas & 2021 - present \tabularnewline
 \hangindent=5ex Judge, Southeast Population Ecology and Evolutionary Genetics & 2019 \tabularnewline
 \hangindent=5ex Advisory board member: Science Ambassador Scholarship (for undergraduate women in science, technology, engineering, or math), Cards Against Humanity & 2017 - 2018 \tabularnewline
 \hangindent=5ex Collaborated with National Park Service to recruit Navajo Nation students to assist with fieldwork in Canyon de Chelly National Monument, AZ & 2009 \tabularnewline			
