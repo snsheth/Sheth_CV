@@ -377,15 +377,15 @@ Botanical Society of America and Plant Biology Joint Congress, Chicago, IL & 200
 
 Genetics and Genomics Academy, North Carolina State University \hfill{2022} \newline
 Department of Biology, University of Toronto, Mississauga \hfill{2022} \newline
-\hspace{7mm} *** \emph{Graduate Student Invited Speaker} *** \tabularnewline
+\hspace{7mm} *** \textbf{Graduate Student Invited Speaker} *** \tabularnewline
 Department of Plant Biology, University of Georgia \hfill{2021} \newline
-\hspace{7mm} *** \emph{Graduate Student Invited Speaker} *** \tabularnewline
+\hspace{7mm} *** \textbf{Graduate Student Invited Speaker} *** \tabularnewline
 Department of Ecology and Evolutionary Biology, University of Tennessee, Knoxville \hfill{2021} \newline
 Department of Ecology and Evolutionary Biology, University of Colorado, Boulder \hfill{2021} \newline
 Department of Ecology and Evolutionary Biology, University of California, Irvine \hfill{2021} \newline
 Ecology, Evolution, and Behavior Program, Michigan State University \hfill{2021} \newline
 Department of Integrative Biology, University of California, Berkeley \hfill{2020} \newline
-\hspace{7mm} *** \emph{Graduate Student Invited Speaker} *** \tabularnewline
+\hspace{7mm} *** \textbf{Graduate Student Invited Speaker} *** \tabularnewline
 Department of Ecology and Evolutionary Biology, University of Arizona \hfill{2020} \newline
 Department of Ecology and Evolutionary Biology, Tulane University \hfill {2019} \newline
 Program in Ecology, Duke University \hfill {2019}\newline
@@ -433,7 +433,7 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 \hangindent=5ex \ \underline{Wooliver, R.\textsuperscript{p}}, \underline{E.E. Vtipil\textsuperscript{g}}, and \textbf{S.N. Sheth}. ``A call for unified study of plant thermal performance in a warming world.'' Botany (virtual; presented by R. Wooliver) & 2020 \tabularnewline
 
 \hangindent=5ex \ \underline{Querns, A.\textsuperscript{g}}, \underline{R. Wooliver\textsuperscript{p}}, M. Vallejo-Mar\'in, and \textbf{S.N. Sheth}. ``The evolution of thermal performance in native and invasive populations of \emph{Mimulus guttatus}.'' Botany (virtual; poster presented by A. Querns) & 2020 \tabularnewline
-\hspace{7mm} *** \emph{Winner of Best Graduate Student Poster in Ecology} *** \tabularnewline
+\hspace{7mm} *** \textbf{Winner of Best Graduate Student Poster in Ecology} *** \tabularnewline
 
 \hangindent=5ex \ \underline{Wooliver, R.\textsuperscript{p}}, S. Tittes, and \textbf{S.N. Sheth}. ``Can plant thermal tolerance evolve under climate change? A comparison of central and edge populations.'' Southeast Population Ecology and Evolutionary Genetics, Clemson, SC (presented by R. Wooliver) & 2019 \tabularnewline
 
@@ -551,6 +551,11 @@ Mia Wiegmann \hfill {2018 - 2021} \newline
 Emma Wilson \hfill {2021 - present} \newline 
 Collin Yurish \hfill {2018 - 2019} 
 
+\subsubsection*{\emph{Research technicians}}
+Aeran Coughlin, Lab Manager \hfill {2019 - 2021} \newline
+Magdalene Lo, Field Technician \hfill {2021} \newline
+Malia Reiss, Field Technician \hfill {2022} \newline
+
 \subsubsection*{\emph{Graduate student committees}}
 Erin Eichenberger, NCSU \hfill {2020 - present} \newline 
 Samuel Flake, NCSU \hfill {2018 - 2021} \newline
@@ -589,23 +594,15 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \subsection*{Professional service}
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
-\hangindent=5ex 
-Chair, Workshop and Regional Society Committee, American Society of Naturalists & 2021 - present \tabularnewline
+\hangindent=5ex Chair, Workshop and Regional Society Committee, American Society of Naturalists & 2022 - present \tabularnewline
+\hangindent=5ex Member, Workshop and Regional Society Committee, American Society of Naturalists & 2021 - 2022 \tabularnewline
 
-% NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
-\end{tabularx}
-%\end{samepage}
-
-\renewcommand{\arraystretch}{1.2} 
-\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
-% END NOTE
-
-Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
+\hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
 
 Panelist: NSF Division of Environmental Biology & 2022 \tabularnewline    
 Proposal reviewer: NSF Division of Environmental Biology & 2021, 2022 \tabularnewline    
 Book proposal reviewer: Oxford University Press & 2018 \tabularnewline                               
-Proposal reviewer: NSF Division of Environmental Biology, Population and Community Ecology & 2014 
+\hangindent=5ex Proposal reviewer: NSF Division of Environmental Biology, Population and Community Ecology & 2014 
 \end{tabularx}
 
 \subsection*{Other service}
