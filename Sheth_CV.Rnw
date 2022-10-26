@@ -138,7 +138,7 @@ evolutionary and population ecology; biogeography; plant community responses to 
 %\noindent\Large{\textbf{PUBLICATIONS}} 
 \vspace{-0.5ex}
 
-Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; Postdoctoral associate\textsuperscript{p} 
+Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; Postdoctoral associate\textsuperscript{p}; Research technician\textsuperscript{t} 
 
 \begin{hangparas}{.5in}{1}
 \begin{enumerate}
@@ -146,7 +146,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 \item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. In press. More evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}.
 
-\item Coughlin, A. O., \underline{R. Wooliver\textsuperscript{p}}, and \textbf{S. N. Sheth}. 2022. Populations of western North American monkeyflowers accrue niche breadth primarily via genotypic divergence in environmental optima. \emph{Ecology and Evolution} 12: e9434. \url{https://doi.org/10.1002/ece3.9434}. 
+\item \underline{Coughlin\textsuperscript{t}, A. O.}, \underline{R. Wooliver\textsuperscript{p}}, and \textbf{S. N. Sheth}. 2022. Populations of western North American monkeyflowers accrue niche breadth primarily via genotypic divergence in environmental optima. \emph{Ecology and Evolution} 12: e9434. \url{https://doi.org/10.1002/ece3.9434}. 
 
 \item Wadgymar, S. M., M. L. DeMarche, E. B. Josephs, \textbf{S. N. Sheth}, and J. T. Anderson. 2022. Local Adaptation: Causal agents of selection and adaptive trait divergence. \emph{Annual Review in Ecology, Evolution, and Systematics} 53: 1. %\url{https://doi.org/10.1146/annurev-ecolsys-012722-035231}.
 
@@ -156,7 +156,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 \item Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. 2022. On the predictive value of species distribution models in population biology. \emph{Ecography} 2022: e05877, \url{https://doi.org/10.1111/ecog.05877}. \textbf{(Runner-up for Ecography E4 Award)}
 
-\item Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, A. Coughlin, and \textbf{S. N. Sheth}. 2022. Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower. \emph{Molecular Ecology} 31: 1254-1268, \url{https://doi.org/10.1111/mec.16300}. 
+\item Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, \underline{A. Coughlin\textsuperscript{t}}, and \textbf{S. N. Sheth}. 2022. Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower. \emph{Molecular Ecology} 31: 1254-1268, \url{https://doi.org/10.1111/mec.16300}. 
 
 \item Barley, J. M., B. S. Cheng, M. Sasaki, S. Gignoux-Wolfsohn, C. G. Hays, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and M. W. Kelly. 2021. Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off. \emph{Proceedings of the Royal Society B} 288: 20210765, \url{https://doi.org/10.1098/rspb.2021.0765}.
 
@@ -424,7 +424,7 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 
 \hangindent=5ex \ Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. ``How well do species distribution models predict parameters of interest in population biology?'' Ecological Society of America; Montreal, Canada (presented by J. Lee-Yaw) & 2022 \tabularnewline
 
-\hangindent=5ex \ Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, A. Coughlin, and \textbf{S. N. Sheth}. ``Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower.'' Botany (virtual; presented by J. C. Preston) & 2021 \tabularnewline
+\hangindent=5ex \ Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, \underline{A. Coughlin\textsuperscript{t}}, and \textbf{S. N. Sheth}. ``Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower.'' Botany (virtual; presented by J. C. Preston) & 2021 \tabularnewline
 
 \hangindent=5ex \ Olliff Yang, R. L., \textbf{S. N. Sheth}, and D. Ackerly. ``Population differentiation in flowering time in \emph{Lasthenia gracilis}, a widespread annual forb.'' Botany (virtual; presented by R. L. Olliff Yang) & 2021 \tabularnewline
 
