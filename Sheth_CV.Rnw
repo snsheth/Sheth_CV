@@ -81,7 +81,7 @@ North Carolina State University
 \vspace{0.5ex}
 
 {\bf National Science Foundation Postdoctoral Fellow} \hfill {2016 - 2017} \newline
-Department of Integrative Biology Biology \newline
+Department of Integrative Biology \newline
 University of California, Berkeley \newline
 Supporting scientists: Dr. David Ackerly and Dr. Bruce Baldwin
 \vspace{0.5ex}
@@ -127,6 +127,7 @@ Washington University in St. Louis
 \section*{RESEARCH INTERESTS}
 \vspace{-0.5ex}
 
+%Plant evolutionary, population, and community responses to climate change
 evolutionary and population ecology; biogeography; plant community responses to climate change
 
 %----------------------------------------------------------------------------------------
@@ -144,7 +145,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 \begin{enumerate}
 \reverselabel{30} %set to total # of publications
 
-\item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. In press. More evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}.
+\item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. In press. Greater evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}.
 
 \item \underline{Coughlin\textsuperscript{t}, A. O.}, \underline{R. Wooliver\textsuperscript{p}}, and \textbf{S. N. Sheth}. 2022. Populations of western North American monkeyflowers accrue niche breadth primarily via genotypic divergence in environmental optima. \emph{Ecology and Evolution} 12: e9434. \url{https://doi.org/10.1002/ece3.9434}. 
 
@@ -233,20 +234,20 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 
-National Science Foundation, IOS, Total: \$2,236,397 (\$399,383 to NCSU) & 2023-2026 \tabularnewline
-\addtolength{\leftskip}{5ex}\emph{Collaborative Research: ORCC: RUI: Integrating evolutionary and migratory potential of Chamaecrista fasciculata into forecasts of range-wide population dynamics under climate change} (\textbf{co-PI}). lead PI: Jill Anderson (U. of Georgia); co-PIs: Megan Demarche (U. of Georgia), Susana Wadgymar (Davidson College), Emily Josephs (Michigan State U.), and Jenny Cruse-Sanders (State Botanical Garden of Georgia). \tabularnewline
+\small \textbf{{National Science Foundation, IOS, Total: \$2,236,397} (\$399,383 to NCSU)} & 2023-2026 \tabularnewline
+\addtolength{\leftskip}{5ex}\emph{Collaborative Research: ORCC: RUI: Integrating evolutionary and migratory potential of Chamaecrista fasciculata into forecasts of range-wide population dynamics under climate change} (\textbf{co-PI}). \small{lead PI: Jill Anderson (U. of Georgia); co-PIs: Megan Demarche (U. of Georgia), Susana Wadgymar (Davidson College), Emily Josephs (Michigan State U.), and Jenny Cruse-Sanders (State Botanical Garden of Georgia).} \tabularnewline
 
-National Science Foundation, DEB, Total: \$1,452,695 (\$509,734 to NCSU) & 2022-2025 \tabularnewline
-\addtolength{\leftskip}{5ex}\emph{Collaborative Research: BEE: Integrating evolutionary genetics and population ecology to detect contemporary adaptation to climate change across a species range} (\textbf{lead PI}). co-PIs: Chris Muir (U. of Hawai'i at M\={a}noa), Lluvia Flores-Renter\'{i}a (San Diego State U.), Jason Sexton (U. of California, Merced), and Jeff Diez (U. of Oregon). \tabularnewline
+\small \textbf{{National Science Foundation, DEB, Total: \$1,452,695} (\$509,734 to NCSU)} & 2022-2025 \tabularnewline
+\addtolength{\leftskip}{5ex}\emph{Collaborative Research: BEE: Integrating evolutionary genetics and population ecology to detect contemporary adaptation to climate change across a species range} (\textbf{lead PI}). \small{co-PIs: Chris Muir (U. of Hawai'i at M\={a}noa), Lluvia Flores-Renter\'{i}a (San Diego State U.), Jason Sexton (U. of California, Merced), and Jeff Diez (U. of Oregon).} \tabularnewline
 
-NSF Postdoctoral Research Fellowship in Biology, \$138,000 & 2016 - 2017 \tabularnewline
+\textbf{NSF Postdoctoral Research Fellowship in Biology, \$138,000} & 2016 - 2017 \tabularnewline
 \addtolength{\leftskip}{5ex}\emph{Relationships among climatic tolerance, trait evolution, and diversification in the California flora} \tabularnewline
 
-NSF DEB Evolutionary Ecology, \$14,984 & 2012 - 2014 \tabularnewline
+\textbf{NSF DEB Evolutionary Ecology, \$14,984} & 2012 - 2014 \tabularnewline
 \addtolength{\leftskip}{5ex}\emph{Dissertation Research: Role of evolutionary potential in limiting species' distributions} (co-PI)
 \vspace{0.5ex} \tabularnewline
 
-NSF GK-12 Fellowship, Univ. of Missouri-St. Louis, \$30,000 & 2005 - 2006\tabularnewline
+\textbf{NSF GK-12 Fellowship, Univ. of Missouri-St. Louis, \$30,000} & 2005 - 2006\tabularnewline
 \end{tabularx}
 
 \subsection*{Awards}
@@ -254,7 +255,7 @@ NSF GK-12 Fellowship, Univ. of Missouri-St. Louis, \$30,000 & 2005 - 2006\tabula
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 
 Runner-up, Ecography Award for Excellence in Ecology and Evolution (E4) & 2022 \tabularnewline
-
+\addtolength{\leftskip}{5ex} Awarded to early career researchers (Lee-Yaw et al.) for an outstanding Review paper in journal \emph{Ecography} & \tabularnewline
 American Naturalist 2016 Student Paper Award & 2017 \tabularnewline
 
 \end{tabularx}
@@ -375,6 +376,7 @@ Botanical Society of America and Plant Biology Joint Congress, Chicago, IL & 200
 %\end{flushleft}
 %\vspace{-1ex}
 
+Department of Biology, Wake Forest University \hfill{2022} \newline
 Genetics and Genomics Academy, North Carolina State University \hfill{2022} \newline
 Department of Biology, University of Toronto, Mississauga \hfill{2022} \newline
 \hspace{7mm} *** \textbf{Graduate Student Invited Speaker} *** \tabularnewline
@@ -561,6 +563,7 @@ Malia Reiss, Field Technician \hfill {2022}
 \subsubsection*{\emph{Graduate student committees}}
 Erin Eichenberger, NCSU \hfill {2020 - present} \newline 
 Samuel Flake, NCSU \hfill {2018 - 2021} \newline
+Melina Keighron, NCSU \hfill {2022 - present} \newline
 Kira Lindelof, NCSU \hfill {2020 - present} \newline
 Ryan O'Connell, Duke University \hfill {2020 - present} \newline
 Simon Pinilla-Gallego, NCSU \hfill {2018 - 2021} \newline
@@ -602,9 +605,9 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
 
 Panelist: NSF Division of Environmental Biology & 2022 \tabularnewline    
-Proposal reviewer: NSF Division of Environmental Biology & 2021, 2022 \tabularnewline    
+Proposal reviewer: NSF Division of Environmental Biology & 2014, 2021, 2022 \tabularnewline    
 Book proposal reviewer: Oxford University Press & 2018 \tabularnewline                               
-\hangindent=5ex Proposal reviewer: NSF Division of Environmental Biology, Population and Community Ecology & 2014 
+%\hangindent=5ex Proposal reviewer: NSF Division of Environmental Biology, Population and Community Ecology & 2014 
 \end{tabularx}
 
 \subsection*{Other service}
@@ -614,7 +617,7 @@ Book proposal reviewer: Oxford University Press & 2018 \tabularnewline
 \hangindent=5ex Invited Panelist, Community Dialogue on Asian Americans and Pacific Islanders in Ecology and Evolutionary Biology (virtual), Northeastern University Marine Science Center & 2022 \tabularnewline 
 \hangindent=5ex Invited Panelist, Forestry and Environmental Resources Leadership Board's Research Panel and Mixer, NCSU & 2022 \tabularnewline 
 \hangindent=5ex Invited Panelist, PhD Career Panel (virtual), Graduate Degree Program in Ecology, Colorado State University & 2021 \tabularnewline
-\hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021 \tabularnewline
+\hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021, 2022 \tabularnewline
 \hangindent=5ex Primary Atlaser (Cary SE Priority Block) and Volunteer: North Carolina Bird Atlas & 2021 - present \tabularnewline
 \hangindent=5ex Judge, Southeast Population Ecology and Evolutionary Genetics & 2019 \tabularnewline
 \hangindent=5ex Advisory board member: Science Ambassador Scholarship (for undergraduate women in science, technology, engineering, or math), Cards Against Humanity & 2017 - 2018 \tabularnewline
