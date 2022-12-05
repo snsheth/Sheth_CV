@@ -145,7 +145,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 \begin{enumerate}
 \reverselabel{30} %set to total # of publications
 
-\item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. In press. Greater evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. Pre-print: \url{https://www.researchsquare.com/article/rs-987225/v1}.
+\item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. 2022. Greater evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. \url{https://doi.org/10.1038/s41558-022-01534-y}.
 
 \item \underline{Coughlin\textsuperscript{t}, A. O.}, \underline{R. Wooliver\textsuperscript{p}}, and \textbf{S. N. Sheth}. 2022. Populations of western North American monkeyflowers accrue niche breadth primarily via genotypic divergence in environmental optima. \emph{Ecology and Evolution} 12: e9434. \url{https://doi.org/10.1002/ece3.9434}. 
 
@@ -422,7 +422,7 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 
-\hangindent=5ex \ \underline{Goff, K. A.\textsuperscript{g}}, M. F. Oldfather, J. Nachlinger, B. Smithers, M. J. Koontz, J. Bishop, C. Bishop, and \textbf{S. N. Sheth}. ''Plant community responses to climate change over an 18-year period on alpine summits in the Sierra Nevada and Great Basin, USA.'' MtnClim, Gothic, CO (poster presented by K. A. Goff) & 2022 \tabularnewline
+\hangindent=5ex \ \underline{Goff, K. A.\textsuperscript{g}}, M. F. Oldfather, J. Nachlinger, B. Smithers, M. J. Koontz, J. Bishop, C. Bishop, and \textbf{S. N. Sheth}. ``Plant community responses to climate change over an 18-year period on alpine summits in the Sierra Nevada and Great Basin, USA.'' MtnClim, Gothic, CO (poster presented by K. A. Goff) & 2022 \tabularnewline
 
 \hangindent=5ex \ Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. ``How well do species distribution models predict parameters of interest in population biology?'' Ecological Society of America; Montreal, Canada (presented by J. Lee-Yaw) & 2022 \tabularnewline
 
@@ -614,16 +614,27 @@ Book proposal reviewer: Oxford University Press & 2018 \tabularnewline
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 \hangindent=5ex Volunteer: Global Observation Research Initiative in Alpine Environments (GLORIA) Great Basin, California and Nevada & 2017 - present \tabularnewline
+\hangindent=5ex Invited Speaker, New Hope Audubon Society Monthly Meeting,  North Carolina Botanical Garden, Chapel Hill, NC. ``Species ranges in a changing world'' & 2022 \tabularnewline 
 \hangindent=5ex Invited Panelist, Community Dialogue on Asian Americans and Pacific Islanders in Ecology and Evolutionary Biology (virtual), Northeastern University Marine Science Center & 2022 \tabularnewline 
 \hangindent=5ex Invited Panelist, Forestry and Environmental Resources Leadership Board's Research Panel and Mixer, NCSU & 2022 \tabularnewline 
 \hangindent=5ex Invited Panelist, PhD Career Panel (virtual), Graduate Degree Program in Ecology, Colorado State University & 2021 \tabularnewline
 \hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021, 2022 \tabularnewline
 \hangindent=5ex Primary Atlaser (Cary SE Priority Block) and Volunteer: North Carolina Bird Atlas & 2021 - present \tabularnewline
+
 \hangindent=5ex Judge, Southeast Population Ecology and Evolutionary Genetics & 2019 \tabularnewline
 \hangindent=5ex Advisory board member: Science Ambassador Scholarship (for undergraduate women in science, technology, engineering, or math), Cards Against Humanity & 2017 - 2018 \tabularnewline
 
 \hangindent=5ex Collaborated with National Park Service to recruit Navajo Nation students to assist with fieldwork in Canyon de Chelly National Monument, AZ & 2009 \tabularnewline			
-Volunteer, Putnam Elementary Science Carnival, Fort Collins, CO & 2009 \tabularnewline                                
+Volunteer, Putnam Elementary Science Carnival, Fort Collins, CO & 2009 \tabularnewline                        
+
+% NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
+\end{tabularx}
+%\end{samepage}
+
+\renewcommand{\arraystretch}{1.2} 
+\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+% END NOTE
+
 Volunteer, Unidad T\'ecnica (environmental NGO), Managua, Nicaragua &2001 \\*[0.7em]
 %\end{flushleft}
 \end{tabularx}
