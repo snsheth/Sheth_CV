@@ -143,7 +143,9 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 
 \begin{hangparas}{.5in}{1}
 \begin{enumerate}
-\reverselabel{30} %set to total # of publications
+\reverselabel{31} %set to total # of publications
+
+\item Wadgymar, S. M., \textbf{S. N. Sheth}, E. B. Josephs, M. L. DeMarche, , and J. T. Anderson. 2024. Defining fitness in evolutionary ecology. \emph{International Journal of Plant Sciences} 185: 218-227. %\url{https://doi.org/10.1086/729360}.
 
 \item Sasaki, M. J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, A. R. Villeneuve, and B. S. Cheng. 2022. Greater evolutionary divergence of thermal limits within marine than terrestrial species. \emph{Nature Climate Change}. \url{https://doi.org/10.1038/s41558-022-01534-y}.
 
@@ -221,7 +223,7 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 %	GRANTS, FELLOWSHIPS, AND AWARDS
 %----------------------------------------------------------------------------------------
 
-\vspace{2ex}
+%\vspace{1ex}
 %\begin{flushleft}
 \section*{GRANTS, FELLOWSHIPS, AND AWARDS}
 %\noindent\Large{\textbf{GRANTS, FELLOWSHIPS, AND AWARDS}} 
@@ -267,6 +269,9 @@ American Naturalist 2016 Student Paper Award & 2017 \tabularnewline
 \subsection*{Small grants, fellowships, and honors}
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+
+GLORIA Great Basin, \$9,189 & 2024 - 2025 \tabularnewline
+\addtolength{\leftskip}{5ex} \emph{Long-term effects of climate change on 29 alpine peaks in California and Nevada} (PI) & \tabularnewline
 
 NCSU Kenan Institute for Technology, Engineering and Science Climate & 2023 \tabularnewline
 \addtolength{\leftskip}{5ex} Leadership Program (PI), \$5,000 \tabularnewline
@@ -338,14 +343,14 @@ Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; P
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in}
 >{\raggedleft}X@{}}
 
-Ecological Society of America, Portland, OR & 2023 \tabularnewline
-\addtolength{\leftskip}{5ex} Symposium: Combining ecology and evolutionary knowledge for conservation  \tabularnewline
-\addtolength{\leftskip}{5ex} ``Using landscape genomics and resurrection studies to understand whether rapid evolution can forestall range contractions'' (Angert, A., D. N. Anstett, H. Branch, J. Anstett, \textbf{S. N. Sheth}, L. Rieseberg, D. Moxley, M. Todesco, K. Huang, M. Jahani, R. Jordan, and J. Lázaro-Guevara; presented by A. Angert)
+3rd Joint Congress on Evolutionary Biology (virtual) & 2024 \tabularnewline
+\addtolength{\leftskip}{5ex} American Society of Naturalists Vice Presidential Symposium: Combining ecology and evolutionary knowledge for conservation  \tabularnewline
+\addtolength{\leftskip}{5ex} ``Quantifying organismal function through time to detect ecological and evolutionary responses to global change '' (\textbf{Sheth, S. N.} and 24 co-authors)
 \tabularnewline
 
-46th Annual Southern California Botanists Symposium (virtual) & 2020 \tabularnewline
-\addtolength{\leftskip}{5ex} Living on the edge - Plants in extreme environments \tabularnewline
-\addtolength{\leftskip}{5ex} ``The role of demographic and evolutionary processes in buffering populations from climate change''
+Ecological Society of America, Portland, OR & 2023 \tabularnewline
+\addtolength{\leftskip}{5ex} Symposium: Combining ecology and evolutionary knowledge for conservation  \tabularnewline
+\addtolength{\leftskip}{5ex} ``Using landscape genomics and resurrection studies to understand whether rapid evolution can forestall range contractions'' (Angert, A., D. N. Anstett, H. Branch, J. Anstett, \textbf{S. N. Sheth}, L. Rieseberg, D. Moxley, M. Todesco, K. Huang, M. Jahani, R. Jordan, and J. L\'azaro-Guevara; presented by A. Angert)
 \tabularnewline
 
 % Move this chunk as needed to adjust page breaks
@@ -354,6 +359,11 @@ Ecological Society of America, Portland, OR & 2023 \tabularnewline
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 % End of chunk
+
+46th Annual Southern California Botanists Symposium (virtual) & 2020 \tabularnewline
+\addtolength{\leftskip}{5ex} Living on the edge - Plants in extreme environments \tabularnewline
+\addtolength{\leftskip}{5ex} ``The role of demographic and evolutionary processes in buffering populations from climate change''
+\tabularnewline
 
 International Biogeography Society Humboldt-250 Meeting, Quito, Ecuador & 2019 \tabularnewline
 \addtolength{\leftskip}{5ex} Symposium: Architects of variation: How climate and physiology shape patterns of biodiversity  \tabularnewline
@@ -446,16 +456,16 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 
 \hangindent=5ex \ Lee-Yaw, J. A., McCune J. L., Pironon, S. and \textbf{S. N. Sheth}. ``How well do species distribution models predict parameters of interest in population biology?'' Ecological Society of America; Montreal, Canada (presented by J. Lee-Yaw) & 2022 \tabularnewline
 
-\hangindent=5ex \ Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, \underline{A. Coughlin\textsuperscript{t}}, and \textbf{S. N. Sheth}. ``Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower.'' Botany (virtual; presented by J. C. Preston) & 2021 \tabularnewline
-
-\hangindent=5ex \ Olliff Yang, R. L., \textbf{S. N. Sheth}, and D. Ackerly. ``Population differentiation in flowering time in \emph{Lasthenia gracilis}, a widespread annual forb.'' Botany (virtual; presented by R. L. Olliff Yang) & 2021 \tabularnewline
-
 % Move this chunk as needed to adjust page breaks
 \end{tabularx}
 
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 % End of chunk
+
+\hangindent=5ex \ Preston, J. C, \underline{R. Wooliver\textsuperscript{p}}, H. Driscoll, \underline{A. Coughlin\textsuperscript{t}}, and \textbf{S. N. Sheth}. ``Spatial variation in high temperature-regulated gene expression predicts evolution of plasticity with climate change in the scarlet monkeyflower.'' Botany (virtual; presented by J. C. Preston) & 2021 \tabularnewline
+
+\hangindent=5ex \ Olliff Yang, R. L., \textbf{S. N. Sheth}, and D. Ackerly. ``Population differentiation in flowering time in \emph{Lasthenia gracilis}, a widespread annual forb.'' Botany (virtual; presented by R. L. Olliff Yang) & 2021 \tabularnewline
 
 \hangindent=5ex \ Smithers, B. V., M. F. Oldfather, M. J. Koontz, J. Bishop, C. Bishop, J. Nachlinger, and \textbf{S. N. Sheth}. ``Community turnover by composition and climate affinity across scales in an alpine system.'' Ecological Society of America (virtual; presented by B. Smithers) & 2020 \tabularnewline
 
@@ -486,10 +496,6 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 
 \hangindent=5ex \ \textbf{Sheth, S.N.} and A.L. Angert. ``Does a jack-of-all-temperatures have a large geographic range?'' Society for the Study of Evolution, Snowbird, UT & 2013 \tabularnewline
 
-\hangindent=5ex \ \textbf{Sheth, S.N.}, I. Jim\'enez, and A.L. Angert. ``Effects of niche properties on variation in geographic range size among species of western North American monkeyflowers.'' Ecological Society of America, Portland, OR & 2012 \tabularnewline
-
-\hangindent=5ex \ \textbf{Sheth, S.N.}, L.G. Lohmann, T. Distler, and I. Jim\'enez. ``The Wallacean shortfall: bias in estimates of geographic range size.'' Botanical Society of America, St. Louis, MO (presented by I. Jim\'enez) & 2011 \tabularnewline
-
 % NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
 \end{tabularx}
 %\end{samepage}
@@ -497,6 +503,10 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 \renewcommand{\arraystretch}{1.2} 
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 % END NOTE
+
+\hangindent=5ex \ \textbf{Sheth, S.N.}, I. Jim\'enez, and A.L. Angert. ``Effects of niche properties on variation in geographic range size among species of western North American monkeyflowers.'' Ecological Society of America, Portland, OR & 2012 \tabularnewline
+
+\hangindent=5ex \ \textbf{Sheth, S.N.}, L.G. Lohmann, T. Distler, and I. Jim\'enez. ``The Wallacean shortfall: bias in estimates of geographic range size.'' Botanical Society of America, St. Louis, MO (presented by I. Jim\'enez) & 2011 \tabularnewline
 
 \hangindent=5ex \ \textbf{Sheth, S.N.} and A.L. Angert. ``Ecological niche attributes and geographic range size in western North American monkeyflowers.'' Society for the Study of Evolution, Portland, OR & 2010 \tabularnewline
 
@@ -625,14 +635,6 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \hangindent=5ex Chair, Workshop and Regional Society Committee, American Society of Naturalists & 2022 - present \tabularnewline
 \hangindent=5ex Member, Workshop and Regional Society Committee, American Society of Naturalists & 2021 - 2022 \tabularnewline
 
-% NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
-\end{tabularx}
-%\end{samepage}
-
-\renewcommand{\arraystretch}{1.2} 
-\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
-% END NOTE
-
 \hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
 
 Panelist: NSF Division of Environmental Biology & 2022 \tabularnewline    
@@ -652,9 +654,16 @@ Book proposal reviewer: Oxford University Press & 2018 \tabularnewline
 \hangindent=5ex Invited Panelist, PhD Career Panel (virtual), Graduate Degree Program in Ecology, Colorado State University & 2021 \tabularnewline
 \hangindent=5ex Exhibitor, Darwin Day, North Carolina Museum of Natural Sciences & 2019, 2021, 2022 \tabularnewline
 \hangindent=5ex Primary Atlaser (Cary SE Priority Block) and Volunteer: North Carolina Bird Atlas & 2021 - present \tabularnewline
-
 \hangindent=5ex Judge, Southeast Population Ecology and Evolutionary Genetics & 2019 \tabularnewline
 \hangindent=5ex Advisory board member: Science Ambassador Scholarship (for undergraduate women in science, technology, engineering, or math), Cards Against Humanity & 2017 - 2018 \tabularnewline
+
+% NOTE: THIS CHUNK SHOULD BE MANUALLY MOVED SO THAT PAGE BREAK IS CORRECT
+\end{tabularx}
+%\end{samepage}
+
+\renewcommand{\arraystretch}{1.2} 
+\begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+% END NOTE
 
 \hangindent=5ex Collaborated with National Park Service to recruit Navajo Nation students to assist with fieldwork in Canyon de Chelly National Monument, AZ & 2009 \tabularnewline			
 Volunteer, Putnam Elementary Science Carnival, Fort Collins, CO & 2009 \tabularnewline                        
@@ -680,6 +689,8 @@ Volunteer, Unidad T\'ecnica (environmental NGO), Managua, Nicaragua &2001 \\*[0.
 
 \renewcommand{\arraystretch}{1.2} 
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+
+\hangindent=5ex Climate-Demography Workshop, Rice University, Houston, TX & 2023 \tabularnewline 
 
 \hangindent=5ex Working group on evolutionary processes in Long-Term Ecological Research sites (Evo-LTER), Sevilleta National Wildlife Refuge LTER, La Joya, NM & 2022 \tabularnewline 
 
