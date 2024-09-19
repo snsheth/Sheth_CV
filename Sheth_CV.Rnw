@@ -75,7 +75,12 @@ Phone: (919) 515-4168 & North Carolina State University \tabularnewline
 %\noindent\Large{\textbf{PROFESSIONAL APPOINTMENTS}} 
 \vspace{-0.5ex}
 
-{\bf Assistant Professor} \hfill {2018 - present} \newline
+{\bf Associate Professor} \hfill {2024 - present} \newline
+Department of Plant and Microbial Biology \newline
+North Carolina State University
+\vspace{0.5ex}
+
+{\bf Assistant Professor} \hfill {2018 - 2024} \newline
 Department of Plant and Microbial Biology \newline
 North Carolina State University
 \vspace{0.5ex}
