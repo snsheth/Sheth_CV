@@ -471,7 +471,7 @@ Department of Biology, St. Louis University \hfill {2007} \newline
 \hangindent=5ex \ \underline{Goff, K. A.\textsuperscript{g}}, M. F. Oldfather, J. Nachlinger, B. Smithers, M. J. Koontz, J. Bishop, C. Bishop, and \textbf{S. N. Sheth}. ``Limited directional change in mountaintop plant communities over 19 years in the
 Sierra Nevada and Great Basin, U.S.A.'' MtnClim, Lake Tahoe, CA (presented by M. F. Oldfather) & 2024 \tabularnewline
 
-\hangindent=5ex \ Waits, J., textbf{S. Sheth}, and L. Flores-Renter\'{i}a. ''Phenological variation and evolution across space and time in in \emph{Erythranthe cardinalis}.'' Ecological Society of America, Long Beach, CA (presented by J. Waits) & 2024 \tabularnewline
+\hangindent=5ex \ Waits, J., \textbf{S. Sheth}, and L. Flores-Renter\'{i}a. ''Phenological variation and evolution across space and time in in \emph{Erythranthe cardinalis}.'' Ecological Society of America, Long Beach, CA (presented by J. Waits) & 2024 \tabularnewline
 
 \hangindent=5ex \ Wilborn-Pilotte, O., E. Cook, K. Kutella, textbf{S. Sheth}, and J. Diez. ''Pollination strategy as an evolutionary response to changing climate in \emph{Erythranthe cardinalis}.'' Ecological Society of America, Long Beach, CA (presented by O. Wilborn-Pilotte) & 2024 \tabularnewline
 
