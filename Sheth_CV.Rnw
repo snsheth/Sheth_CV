@@ -477,8 +477,6 @@ Sierra Nevada and Great Basin, U.S.A.'' MtnClim, Lake Tahoe, CA (presented by M.
 
 \hangindent=5ex \ Anstett, D., J. Anstett, J., \textbf{S. Sheth}, D. Moxley, M. Jahani, K. Huang, M. Todesco, R. Jordan, L. Rieseberg, A. Angert. ``Does genetic offset predict population decline?'' Ecological Society of America, Portland, OR (presented by D. Anstett) & 2023 \tabularnewline
 
-\hangindent=5ex \ Anstett, D., J. Anstett, J., \textbf{S. Sheth}, D. Moxley, M. Jahani, K. Huang, M. Todesco, R. Jordan, L. Rieseberg, A. Angert. ``Does genetic offset predict population decline?'' Ecological Society of America, Portland, OR (presented by D. Anstett) & 2023 \tabularnewline
-
 \hangindent=5ex \ Anstett, D., J. Anstett, J., \textbf{S. Sheth}, D. Moxley, M. Jahani, K. Huang, M. Todesco, R. Jordan, L. Rieseberg, A. Angert. ``Does genetic offset predict population decline?'' Evolution, Albuquerque, NM (presented by D. Anstett) & 2023 \tabularnewline
 
 \hangindent=5ex \ Cheng, B., M. Sasaki, J. M. Barley, S. Gignoux-Wolfsohn, C. G. Hays, M. W. Kelly, A. B. Putnam, \textbf{S. N. Sheth}, and A. R. Villeneuve. ``Greater local adaptation of thermal limits within marine than terrestrial species'' Benthic Ecology Meeting, Miami, FL (presented by B. Cheng) & 2023 \tabularnewline
@@ -493,6 +491,9 @@ Sierra Nevada and Great Basin, U.S.A.'' MtnClim, Lake Tahoe, CA (presented by M.
 
 \hangindent=5ex \ Smithers, B. V., M. F. Oldfather, M. J. Koontz, J. Bishop, C. Bishop, J. Nachlinger, and \textbf{S. N. Sheth}. ``Community turnover by composition and climate affinity across scales in an alpine system.'' Ecological Society of America (virtual; presented by B. Smithers) & 2020 \tabularnewline
 
+
+\hangindent=5ex \ \underline{Wooliver, R.\textsuperscript{p}}, \underline{E.E. Vtipil\textsuperscript{g}}, and \textbf{S.N. Sheth}. ``A call for unified study of plant thermal performance in a warming world.'' Botany (virtual; presented by R. Wooliver) & 2020 \tabularnewline
+
 % Move this chunk as needed to adjust page breaks
 \end{tabularx}
 
@@ -500,8 +501,6 @@ Sierra Nevada and Great Basin, U.S.A.'' MtnClim, Lake Tahoe, CA (presented by M.
 
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 % End of chunk
-
-\hangindent=5ex \ \underline{Wooliver, R.\textsuperscript{p}}, \underline{E.E. Vtipil\textsuperscript{g}}, and \textbf{S.N. Sheth}. ``A call for unified study of plant thermal performance in a warming world.'' Botany (virtual; presented by R. Wooliver) & 2020 \tabularnewline
 
 \hangindent=5ex \ \underline{Querns, A.\textsuperscript{g}}, \underline{R. Wooliver\textsuperscript{p}}, M. Vallejo-Mar\'in, and \textbf{S.N. Sheth}. ``The evolution of thermal performance in native and invasive populations of \emph{Mimulus guttatus}.'' Botany (virtual; poster presented by A. Querns) & 2020 \tabularnewline
 \hspace{7mm} *** \textbf{Winner of Best Graduate Student Poster in Ecology} *** \tabularnewline
