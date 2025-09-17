@@ -421,7 +421,7 @@ Ecological Society of America, Portland, OR & 2023 \tabularnewline
 
 International Biogeography Society Humboldt-250 Meeting, Quito, Ecuador & 2019 \tabularnewline
 \addtolength{\leftskip}{5ex} Symposium: Architects of variation: How climate and physiology shape patterns of biodiversity  \tabularnewline
-\addtolength{\leftskip}{5ex} ``Can plant thermal tolerance evolve under climate change? A comparison of central and edge populations'' (\underline{ Wooliver, R.\textsuperscript{p}}, S. Tittes, and \textbf{S.N. Sheth}; presented by R. Wooliver)
+\addtolength{\leftskip}{5ex} ``Can plant thermal tolerance evolve under climate change? A comparison of central and edge populations'' (\underline{Wooliver, R.\textsuperscript{p}}, S. Tittes, and \textbf{S.N. Sheth}; presented by R. Wooliver)
 \tabularnewline
 
 Green Life Sciences, University of Michigan, Ann Arbor, MI & 2018 \tabularnewline
