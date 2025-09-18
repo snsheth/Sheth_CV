@@ -750,7 +750,7 @@ Biology faculty search committee, Colorado State University \hfill{2012 - 2013}
 \hangindent=5ex Chair, Workshop and Regional Society Committee, American Society of Naturalists & 2023 \tabularnewline
 \hangindent=5ex Member, Workshop and Regional Society Committee, American Society of Naturalists & 2021 - 2022 \tabularnewline
 
-\hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
+\hangindent=5ex Manuscript reviewer: \emph{American Journal of Botany, American Naturalist, Annals of Botany, AoB PLANTS, Biology Letters, BMC Evolutionary Biology, Conservation Biology, Current Biology, Ecography, Ecological Applications, Ecology, Ecology Letters, Evolution, Evolutionary Ecology, Functional Ecology, Journal of Animal Ecology, Journal of Ecology, Molecular Ecology, New Phytologist, Philosophical Transactions of the Royal Society B, PNAS, Proceedings of the Royal Society B, Science Advances, Trends in Ecology and Evolution} & 2009 - present \tabularnewline
 
 Panelist: NSF Division of Environmental Biology & 2022 \tabularnewline    
 Proposal reviewer: NSF Division of Environmental Biology & 2014, 2021, 2022 \tabularnewline    
