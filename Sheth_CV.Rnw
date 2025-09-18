@@ -868,6 +868,8 @@ Volunteer, Unidad T\'ecnica (environmental NGO), Managua, Nicaragua &2001 \\*[0.
 
 \renewcommand{\arraystretch}{1.2}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
+Faculty Affiliate: NC State Global One Health Academy \tabularnewline
+Faculty Affiliate: NC State Genetics and Genomics Academy \tabularnewline
 Faculty Affiliate: Southeast Climate Adaptation Science Center \tabularnewline
 American Society of Naturalists \tabularnewline
 Botanical Society of America \tabularnewline
