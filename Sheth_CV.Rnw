@@ -528,7 +528,7 @@ Sierra Nevada and Great Basin, U.S.A.'' MtnClim, Lake Tahoe, CA (presented by M.
 \begin{tabularx}{\textwidth}{@{}>{\raggedright}p{5.25in} >{\raggedleft}X@{}}
 % End of chunk
 
-\hangindent=5ex \ Wilborn-Pilotte, O., E. Cook, K. Kutella, textbf{S. Sheth}, and J. Diez. ''Pollination strategy as an evolutionary response to changing climate in \emph{Erythranthe cardinalis}.'' Ecological Society of America, Long Beach, CA (presented by O. Wilborn-Pilotte) & 2024 \tabularnewline
+\hangindent=5ex \ Wilborn-Pilotte, O., E. Cook, K. Kutella, \textbf{S. Sheth}, and J. Diez. ''Pollination strategy as an evolutionary response to changing climate in \emph{Erythranthe cardinalis}.'' Ecological Society of America, Long Beach, CA (presented by O. Wilborn-Pilotte) & 2024 \tabularnewline
 
 \hangindent=5ex \ Anstett, D., J. Anstett, J., \textbf{S. Sheth}, D. Moxley, M. Jahani, K. Huang, M. Todesco, R. Jordan, L. Rieseberg, A. Angert. ``Does genetic offset predict population decline?'' Ecological Society of America, Portland, OR (presented by D. Anstett) & 2023 \tabularnewline
 
@@ -655,6 +655,7 @@ Woodward Elementary School, tutor and teaching assistant, St. Louis, MO \hfill {
 
 \subsubsection*{\emph{Postdoctoral associates}}
 Dr. Lucas Albano \hfill {2024 - present}  \newline
+Dr. Lillie Pennington (co-advised and based at U. of Georgia) \hfill {2023 - present}  \newline
 Dr. Rachel Wooliver \hfill {2018 - 2020}
 
 \subsubsection*{\emph{Graduate students}}
