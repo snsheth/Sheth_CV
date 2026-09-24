@@ -1,4 +1,23 @@
+# RStudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS junk
+.DS_Store
+
+# LaTeX/knitr outputs
+*.tex
+*.log
+*.aux
+*.synctex.gz
+
+# Old version folders
+Old_versions/
+20240924_UFS/
+20250916_UFS/
+20260922_UFS/
+
+# Other
+README.md
