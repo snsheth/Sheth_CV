@@ -154,7 +154,8 @@ evolutionary and population ecology; biogeography; plant community responses to 
 \nopagebreak[4]
 %\noindent\Large{\textbf{PUBLICATIONS}} 
 
-Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; Postdoctoral associate\textsuperscript{p}; Research technician\textsuperscript{t} 
+\underline{Underlined} names indicate trainees in my lab: Undergraduate student\textsuperscript{u}; Graduate student\textsuperscript{g}; Postdoctoral associate\textsuperscript{p}; Research technician\textsuperscript{t} \\
+\textsuperscript{\textdagger}Supported by an award on which I am lead PI and the first author is a co-PI's trainee
 
 <<publications, echo=FALSE, results='asis'>>=
 cat(format_publications("data/publications.csv"))
@@ -327,6 +328,16 @@ cat(format_entry_table("data/other_service.csv"))
 %	ADD PAGE BREAK; MOVE MANUALLY IF NEEDED
 %----------------------------------------------------------------------------------------
 %\newpage
+
+%----------------------------------------------------------------------------------------
+%	PRESS COVERAGE
+%----------------------------------------------------------------------------------------
+\section*{PRESS COVERAGE}
+\nopagebreak[4]
+
+<<popular-press, echo=FALSE, results='asis'>>=
+cat(format_popular_press("data/popular_press.csv"))
+@
 
 %----------------------------------------------------------------------------------------
 %	WORKING GROUPS AND WORKSHOPS

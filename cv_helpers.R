@@ -109,19 +109,24 @@ format_publications <- function(csv_path = "data/publications.csv") {
       doi = tidyr::replace_na(doi, ""),
       note = tidyr::replace_na(note, "")
     )
-
+  
+  # optional column: any non-empty value in `leadpi` adds a dagger to that citation
+  if (!"leadpi" %in% names(pubs)) pubs$leadpi <- NA_character_
+  pubs$leadpi <- tidyr::replace_na(as.character(pubs$leadpi), "")
+  
   n <- nrow(pubs)
-
+  
   citations <- glue(
-    "{format_author_markup(pubs$authors)}. {pubs$year}. {pubs$title}. ",
+    "{ifelse(nzchar(pubs$leadpi), '\\\\textsuperscript{\\\\textdagger}', '')}",
+    "{format_author_markup(pubs$authors)}. {pubs$year}. {ifelse(grepl('[.?!]$', pubs$title), pubs$title, paste0(pubs$title, '.'))} ",
     "\\emph{{{pubs$journal}}}",
     "{ifelse(nzchar(pubs$volume_pages), paste0(' ', pubs$volume_pages, '.'), '.')}",
     "{ifelse(nzchar(pubs$doi), paste0(' \\\\url{', pubs$doi, '}.'), '')}",
     "{ifelse(nzchar(pubs$note), paste0(' \\\\textbf{', pubs$note, '}'), '')}"
   )
-
+  
   items <- glue("\\item {citations}")
-
+  
   glue(
     "\\begin{{hangparas}}{{.5in}}{{1}}\n",
     "\\begin{{enumerate}}\n",
@@ -306,3 +311,34 @@ format_mentoring_ncsu <- function(csv_path = "data/mentoring_ncsu.csv") {
   paste(unlist(blocks[blocks != ""]), collapse = "\n")
 }
 
+## ---- Press coverage --------------------------------------------------------
+## data/popular_press.csv has columns: date, author, title, outlet, url, note
+## `date` is YYYY, YYYY-MM, or YYYY-MM-DD. It sorts newest-first (so use the
+## full date to control order within a year); only the year is printed,
+## right-aligned like the other sections. `author` and `note` are optional
+## (leave blank for most news items). All text is plain -- characters like
+## & % # _ are escaped automatically. The full URL is printed as a
+## clickable link.
+tex_escape <- function(x) str_replace_all(x, "([&%#_$])", "\\\\\\1")
+format_popular_press <- function(csv_path = "data/popular_press.csv") {
+  pr <- read_csv(csv_path, show_col_types = FALSE,
+                 col_types = cols(.default = col_character())) |>
+    mutate(across(c(author, note), ~ tidyr::replace_na(.x, ""))) |>
+    arrange(desc(date))
+  
+  by <- ifelse(nzchar(pr$author), paste0(tex_escape(pr$author), ". "), "")
+  nt <- ifelse(nzchar(pr$note), paste0(" ", tex_escape(pr$note), "."), "")
+  shown <- substr(pr$date, 1, 4)
+  tex_tit <- ifelse(grepl("[.?!]$", pr$title), tex_escape(pr$title),
+                    paste0(tex_escape(pr$title), "."))
+  
+  entry <- paste0(
+    "\\hangindent=5ex ", by, tex_tit, " ",
+    "\\emph{", tex_escape(pr$outlet), "}.", nt,
+    " \\url{", pr$url, "}. & ", shown
+  )
+  
+  tmp <- tempfile(fileext = ".csv")
+  write_csv(tibble::tibble(entry_latex = entry), tmp)
+  format_entry_table(tmp)
+}
